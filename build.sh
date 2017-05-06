@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t sumit/jdk1.7:latest .
+docker build -t sumit/java7:latest .
